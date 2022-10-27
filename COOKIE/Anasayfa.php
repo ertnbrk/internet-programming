@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LOGIN</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Document</title>
 </head>
 <body>
 
@@ -20,22 +19,9 @@ if (isset($_GET["Logout"])){
 }
 
 ?>
+    <h1>ANASAYFA</h1>
 
 
-    <div class="container">
-        <div class="header">
-            <div class="navbar">
-                <a href="Anasayfa.php">AnaSayfa</a><a href="ürünler.php">Ürünler</a><a href="Sepet.php" class="sepet">SEPET</a>
-            </div>
-        </div>
-        <div class="content">
-            <H1>HELLO</H1>
-        </div>
-        <div class="footer">
-            
-            <form action=""><input type="submit" value="Logout" name="Logout"></form>
-        </div>
-</div>
-
+    <form action=""><input type="submit" value="Logout" name="Logout"></form>
 </body>
 </html>

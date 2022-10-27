@@ -56,14 +56,14 @@
 
             <div class="registerDiv">
             
-           <!-- <form action="#" class="registerForm">
+           <form action="#" class="registerForm">
             <table>
                     <tr>
                         <td>
                             <label for="kayitAdi">Kullanıcı Adı:</label>
                         </td>
                         <td>
-                            <input type="text" id="kayitAdi" name="kayit" placeholder="Kullanıcı Adını gir">
+                            <input type="text" id="kayit" name="kayit" placeholder="Kullanıcı Adını gir">
                         </td>
                     </tr>
                     <tr>
@@ -71,17 +71,17 @@
                             <label for="kayitpassw">Şifre:</label>
                         </td>
                         <td>
-                            <input type="text" id="kayitsifre" name="kayitpassword" placeholder="Şifreni gir">
+                            <input type="text" id="kayitsifre" name="kayitsifre" placeholder="Şifreni gir">
                         </td>
                     </tr>
                     <tr>
                         <td>
-                        <input type="submit" value="Kayıt">
+                        <input type="submit" value="Kayit">
                         </td>
                         
                     </tr>
                 </table>
-                -->
+                
                 
                 </form>
             </div>
